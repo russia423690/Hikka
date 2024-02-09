@@ -47,7 +47,7 @@ Simply run this command out of <b>root</b> and follow the instructions of instal
  <li>📼 Improved and new <b>core modules</b></li>
  <li>⏱ Quick <b>bug fixes</b> (compared to official FTG and GeekTG)</li>
  <li>▶️ <b>Inline forms, galleries and lists</b></li>
- <li>🔁 Full <b>backward compatibility</b> with FTG, GeekTG and Dragon Userbot modules</li>
+ <li>🔁 Full <b>backward compatibility</b> with FTG, GeekTG and Dragon userty modules</li>
 </ul>
 <hr>
 <h2 border="none"><img src="https://github.com/hikariatama/assets/raw/master/1312-micro-sd-card-flat.webp" height="54" align="middle"> Requirements</h2>
